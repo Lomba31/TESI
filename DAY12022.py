@@ -34,5 +34,3 @@ list.sort(reverse=True)
 print("****", sum(list[:3]))
 
 
-
-
