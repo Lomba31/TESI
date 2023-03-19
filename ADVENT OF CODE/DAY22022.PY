@@ -24,7 +24,7 @@ for i in data:
         else:
             count += 6
     elif i[0] == "C":
-        count = count + 2
+        count = count + 3
         if i[2] == "X":
             count += 6
         elif i[2] == "Y":
